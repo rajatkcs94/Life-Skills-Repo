@@ -1,7 +1,7 @@
 # Grit and Growth Mindset
 
 ## 1. Grit
-**Question 1. Summarize the video in a few (1 or 2) lines. Use your own words.**
+**Question 1. Summarize the video in a few lines?**
 
 **Answer:**  
 Grit means sticking to your long-term goals with determination and perseverance.
@@ -10,14 +10,14 @@ It’s about passion and persistence, even in the face of challenges or failure.
 ---
 
 ## 2. Introduction to Growth Mindset
-**Question 2. Summarize the video in a few (1 or 2) lines in your own words.**
+**Question 2. Summarize the video in a few lines?**
 
 **Answer:**  
 A growth mindset is the belief that abilities and intelligence can be developed through continuous effort and learning. It encourages embracing challenges and learning from mistakes.
 
 ---
 
-## 3. Understanding Internal Locus of Control
+## 3. Understanding Internal Locus of Control?
 **Question 3. What is the Internal Locus of Control? What is the key point in the video?**
 
 **Answer:**  
@@ -25,7 +25,7 @@ Internal Locus of Control is the belief that you are responsible for your succes
 
 ---
 
-## 4. How to Build a Growth Mindset
+## 4. How to Build a Growth Mindset?
 **Question 4. What are the key points mentioned by the speaker to build a growth mindset?**
 
 **Answer:**  
